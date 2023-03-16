@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.5rem;
+}
+
+.flexItem{
+    flex: 1;
+}

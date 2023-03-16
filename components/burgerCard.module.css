@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.5rem;
+}
+
+.count{
+    padding: 0.5rem;
+    margin-left: 2rem;
+}
+
+.flexItem{
+    flex: 1;
+}
